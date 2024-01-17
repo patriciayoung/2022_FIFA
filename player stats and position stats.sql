@@ -29,6 +29,10 @@ CREATE TABLE Player_Stats (
 	TACKLES_WON INT
 );
 
+Select * from player_info;
+select * from position;
+select * from player_stats;
+
 
 
 
