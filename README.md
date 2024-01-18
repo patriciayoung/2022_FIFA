@@ -2,7 +2,8 @@
 ## Group Members: Dariel Ibanez, Mia Serrano-Salow, Nelson Velasco, Patricia Young
 
 ### Project Overview:
-Our team is acting as a scouting company looking to acquire new talent. We have determined which players are the best based on their skills and performance in the 2022 FIFA World Cup. We have defined "best" by analyzing the relationships between players' number of goals, touches, assists, and passes, just to name a few. We have chosen to work in the sports field because it was a topic we all found interesting. 
+Our team is _____ uploading player data from the 2022 FIFA World Cup into a database for soccer scouts to use to determine the best players to rectruit. We have determined which players are the best based on their skills and performance in the 2022 FIFA World Cup. We have defined "best" by analyzing the relationships between players' number of goals, touches, assists, and passes, just to name a few. We have chosen to work in the sports field because it was a topic we all found interesting. 
+
 
 ### Questions:
 1. Who are the players that outperformed their market value during the FIFA World Cup?
