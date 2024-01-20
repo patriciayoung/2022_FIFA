@@ -16,16 +16,16 @@ db_params = {
 }
 
 # Create a connection string
-conn_str = f"postgresql://{postgres}:{password}@{localhost}:{5433}/{2022_FIFA}"
+conn_str = f"postgresql://your_postgres:your_password@localhost:5433/2022_FIFA"
 
 # Create a SQLAlchemy engine
 engine = create_engine(conn_str)
 
-# SQL query
-query = select * from Player_Info;
+import pandas as pd
 
-# execute query and fetch results into a Pandas DF
-df = pd.read_sql_query(query, engine)
+#### Replace 'your_query' with your actual SQL query
+query = "SELECT * FROM Player_Info"
+result_df = pd.read_sql_query(query, engine)
 
-# Display DF
-df.head()
+# Display the result
+print(result_df.head())
