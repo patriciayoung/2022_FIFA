@@ -2,12 +2,12 @@
 ## Group Members: Dariel Ibanez, Mia Serrano-Salow, Nelson Velasco, Patricia Young
 
 ### Project Overview:
-We are a team of sports data engineers researching and uploading player data from the 2022 FIFA World Cup into a database for soccer scouts to use to determine the best players to rectruit. We have determined which players are the best based on their skills and performance in the 2022 FIFA World Cup. We have defined "best" by analyzing the relationships between players' number of goals, touches, assists, and passes, just to name a few. We have chosen to work in the sports field because it was a topic we all found interesting. 
+We are a team of sports data engineers researching and uploading player data from the 2022 FIFA World Cup into a database for soccer scouts to use to determine the best players to recruit. We have determined which players are the best based on their skills and performance in the 2022 FIFA World Cup. We have defined "best" by analyzing the relationships between players' number of goals, touches, assists, and passes, just to name a few. We have chosen to work in the sports field because it was a topic we all found interesting. 
 
 ### Questions:
 1. What factors should determine what makes players the "best"?
 2. Who are the players that outperformed their market value during the FIFA World Cup?
-3. Who had the most number of goals out of all the players in the the FIFA World Cup?
+3. Who had the most number of goals out of all the players in the FIFA World Cup?
 4. Which players had the most touches per the amount of minutes per games?
 
 ### Applications:
@@ -22,7 +22,7 @@ While working on this project, our team made a number of efforts to maintain the
 ### Who did what?
 Dariel Ibanez: 
 Mia Serrano-Salow: Created ERD using quickdatabasediagrams.com; README write up
-Patricia Young: Created project Repository; imported data into SQL database (PostgreSQL into pgAdmin) and created Player_Info table then created 3 tables from there; exported data out of SQL database back into Jupyter Notebook.
+Patricia Young: Created project Repository and project work flow; imported data into SQL database (PostgreSQL into pgAdmin) and created Player_Info table then created 3 tables from there; exported data out of SQL database back into Jupyter Notebook.
 Nelson Velasco:
 
 ### Location of Data in Github:
