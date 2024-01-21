@@ -21,8 +21,8 @@ While working on this project, our team made a number of efforts to maintain the
 
 ### Who did what?
 Dariel Ibanez: 
-Mia Serrano-Salow: Imported SQL and created ERD using quickdatabasediagrams.com; README write up
-Patricia Young:
+Mia Serrano-Salow: Created ERD using quickdatabasediagrams.com; README write up
+Patricia Young: Created project Repository; imported data into SQL database (PostgreSQL into pgAdmin) and created Player_Info table then created 3 tables from there; exported data out of SQL database back into Jupyter Notebook.
 Nelson Velasco:
 
 ### Location of Data in Github:
