@@ -5,6 +5,7 @@
 
 create table position (
 	position_id SERIAL PRIMARY KEY,
+	players_FIFA_info_id SERIAL
 	position VARCHAR (5),
 	team VARCHAR (25),
 	touches INT
