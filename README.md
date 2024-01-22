@@ -2,7 +2,7 @@
 ## Group Members: Dariel Ibanez, Mia Serrano-Salow, Nelson Velasco, Patricia Young
 
 ### Project Overview:
-We are a team of sports data engineers researching and uploading player data from the 2022 FIFA World Cup into a database for soccer scouts to use to determine the best players to recruit. We have determined which players are the best based on their skills and performance in the 2022 FIFA World Cup. We have defined "best" by analyzing the relationships between players' number of goals, touches, assists, and passes, just to name a few. We have chosen to work in the sports field because it was a topic we all found interesting. 
+We are a team of sports data engineers researching and uploading player data from the 2022 FIFA World Cup into a database for soccer scouts to use to determine the best players to recruit. We have gathered statistics from players based on their skills and performance in the 2022 FIFA World Cup. We have decided which data to utilize by analyzing the relationships between players' number of goals, touches, assists, and passes, just to name a few. We have chosen to work in the sports field because it was a topic we all found interesting. 
 
 ### Questions:
 1. What factors should determine what makes players the "best"?
