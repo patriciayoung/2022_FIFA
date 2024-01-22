@@ -4,7 +4,7 @@
 
 
 create table position (
-	id SERIAL PRIMARY KEY,
+	position_id SERIAL PRIMARY KEY,
 	position VARCHAR (5),
 	team VARCHAR (25),
 	touches INT
@@ -12,7 +12,7 @@ create table position (
 
 
 create table player_game_stats (
-	id SERIAL PRIMARY KEY,
+	player_game_stats_id SERIAL PRIMARY KEY,
 	dribbles_completed INT,
 	goals INT,
 	shots INT,
@@ -26,7 +26,8 @@ create table player_game_stats (
 
 
 create table players_FIFA_info (
-	id SERIAL PRIMARY KEY,
+	players_FIFA_info_id SERIAL PRIMARY KEY,
+	player_game_stats_id SERIAL
 	player VARCHAR (25),
 	team VARCHAR (25),
 	age INT,
