@@ -20,7 +20,7 @@ We chose to use Jupyter Notebook to clean our data instead of VSCode because we 
 While working on this project, our team made a number of efforts to maintain the integrity of the data and remain compliant with all laws and regulations. We ensured that all of the data we extracted from Kaggle was compliant with data privacy regulations. Since the data was extracted from Kaggle, a community platform that contains data free for public use, we obtained consent by agreeing to the site's terms and conditions. We maintained transparency in the ETL process by documenting all of the steps we took, and made this information accessible to relevant stakeholders. Lastly, we communicated the purpose of the data extraction and how we intend to use the data. 
 
 ### Who did what?
-- Dariel Ibanez:
+- Dariel Ibanez: Started with the ETL workflow, transformed and cleaned data using Polars Library.
 - Mia Serrano-Salow: Created ERD using quickdatabasediagrams.com; README write up; formatting/styling of PowerPoint presentation
 - Patricia Young: Created project Repository and project work flow; imported data into SQL database (PostgreSQL into pgAdmin) and created Player_Info table then created 3 tables from there; exported data out of SQL database back into Jupyter Notebook.
 - Nelson Velasco:
