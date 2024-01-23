@@ -23,7 +23,7 @@ While working on this project, our team made a number of efforts to maintain the
 - Dariel Ibanez: Started with the ETL workflow, transformed and cleaned data using Polars Library.
 - Mia Serrano-Salow: Created ERD using quickdatabasediagrams.com; README write up; formatting/styling of PowerPoint presentation
 - Patricia Young: Created project Repository and project work flow; imported data into SQL database (PostgreSQL into pgAdmin) and created Player_Info table then created 3 tables from there; exported data out of SQL database back into Jupyter Notebook.
-- Nelson Velasco:
+- Nelson Velasco: Worked on transforming the data, only using Pandas, encoded files tu ANSI, mkaing names more legible. 
 
 ### Location of Data in Github:
 The name of the repository is 2022_FIFA. The original csv files with the raw data can be found under the "fifa worldcup data" folder. The csv files we created from that data can be found under "txt encoding to csv files". Our final cleaning process in Jupyter Notebook can be found under "FIFA World Cup Value and Overall Merge.ipynb" and the cleaned csv file can be found under "FIFA_stats_cleaned.csv". Individual ETL work as well as our progress checks can be found under "2022_FIFA_WC_Cleanup.ipynb", "2022_FIFA_cleaned.ipynb", and "2022_FIFA_cleaned_DN.ipynb". The sql data can be found under "player stats and position stats.sql" and the ERD screenshot and its code can be found under "QuickDBD-FIFA ERD (1).png" and "QuickDBD-FIFA ERD.sql".
